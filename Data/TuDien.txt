@@ -1,0 +1,502 @@
+people			:	Nguoi
+history			:	Lich su
+way			:	Duong
+art			:	Nghe thuat
+world			:	The gioi
+information		:	Thong tin
+map			:	Ban do
+two			:	Hai
+family			:	Gia dinh
+government		:	Chinh phu
+health			:	Suc khoe
+system			:	He thong
+computer		:	May tinh
+red			:	Mau do
+what			:	Cai gi
+meat			:	Thit
+year			:	Nam
+thanks			:	Loi cam on
+music			:	Am nhac
+person			:	Nguoi
+reading			:	Doc
+method			:	Phuong phap
+data			:	Du lieu
+food			:	Thuc an
+understanding		:	Hieu biet
+theory			:	Ly thuyet
+law			:	Phap luat
+bird			:	Chim
+literature		:	Van chuong
+problem			:	Van de
+software		:	Phan mem
+control			:	Kiem soat
+knowledge		:	Kien thuc
+power			:	Quyen luc
+ability			:	Kha nang
+economics		:	Kinh te hoc
+love			:	Tinh yeu
+internet		:	Internet
+television		:	Tivi
+science			:	Khoa hoc
+library			:	Thu vien
+nature			:	Ban chat
+fact			:	Viec
+product			:	San pham
+idea			:	Y kien
+temperature		:	Nhiet do
+investment		:	Dau tu
+area			:	Khu vuc
+society			:	Xa hoi
+activity		:	Hoat dong
+story			:	Cau chuyen
+industry		:	Nganh cong nghiep
+media			:	Phuong tien truyen thong
+thing			:	Vat
+oven			:	Lo nuong
+community		:	Cong dong
+definition		:	Dinh nghia
+safety			:	Su an toan
+quality			:	Chat luong
+development		:	Phat trien
+language		:	Ngon ngu
+management		:	Quan ly
+player			:	Nguoi choi
+variety			:	Nhieu
+video			:	Video
+week			:	Tuan
+security		:	An ninh
+country			:	Nuoc
+exam			:	Thi
+movie			:	Phim
+organization		:	Co quan
+equipment		:	Thiet bi
+physics			:	Vat ly
+analysis		:	Nghien cuu
+policy			:	Chinh sach
+series			:	Loat
+thought			:	Tu tuong
+basis			:	Can cu
+boyfriend		:	Ban trai
+direction		:	Phuong huong
+strategy		:	Chien luoc
+technology		:	Cung nghe
+army			:	Quan doi
+camera			:	May chup hinh
+freedom			:	Su tu do
+paper			:	Giay
+environment		:	Moi truong
+child			:	Tre em
+instance		:	Truong hop
+month			:	Thang
+truth			:	Su that
+marketing		:	Thi truong
+university		:	Truong dai hoc
+writing			:	Viet
+article			:	Dieu khoan
+department		:	Bo
+difference		:	Khac nhau
+goal			:	Muc tieu
+news			:	Tin tuc
+audience		:	Khan gia
+fishing			:	Danh ca
+growth			:	Tang truong
+income			:	Thu nhap
+marriage		:	Hon nhan
+user			:	Nguoi su dung
+combination		:	Phoi hop
+failure			:	That bai
+meaning			:	Nghia
+medicine		:	Y hoc
+philosophy		:	Triet hoc
+teacher			:	Giao vien
+communication		:	Lien lac
+night			:	Dem
+chemistry		:	Hoa hoc
+disease			:	Can benh
+disk			:	Dia
+energy			:	Nang luong
+nation			:	Quoc gia
+road			:	Duong
+role			:	Vai tro
+soup			:	Sup
+advertising		:	Quang cao
+location		:	Vi tri
+success			:	Su thanh cong
+addition		:	Them vao
+apartment		:	Can ho
+education		:	Su giao duc
+math			:	Toan hoc
+moment			:	Choc lat
+painting		:	Buc tranh
+politics		:	Chinh tri
+attention		:	Chy y
+decision		:	Phan quyet
+event			:	Bien co
+property		:	Bat dong san
+shopping		:	Mua sam
+student			:	Sinh vien
+wood			:	Go
+competition		:	Cuoc thi
+distribution		:	Phon phot
+entertainment		:	Giai tri
+office			:	Van phong
+population		:	Dan so
+president		:	Chu tich
+unit			:	Don vi
+category		:	The loai
+cigarette		:	Thuoc la
+context			:	Boi canh
+introduction		:	Su gioi thieu
+opportunity		:	Co hoi
+performance		:	Hieu suat
+driver			:	Nguoi lai xe
+flight			:	Chuyen bay
+length			:	Chieu dai
+magazine		:	Tap chi
+newspaper		:	Bao
+relationship		:	Moi quan he
+teaching		:	Giang day
+cell			:	Te bao
+dealer			:	Nguoi chia bai
+debate			:	Tranh luan
+finding			:	Phat hien
+lake			:	Ho
+member			:	Thanh vien
+message			:	Thong diep
+phone			:	Dien thoai
+scene			:	San khau
+appearance		:	Xuat hien
+association		:	Su ket hop
+concept			:	Khai niem
+customer		:	Khach hang
+death			:	Chet
+discussion		:	Thao luan
+housing			:	Nha o
+inflation		:	Su lam phat
+insurance		:	Bao hiem
+mood			:	Tam trang
+woman			:	Phu nu
+advice			:	Loi khuyen
+blood			:	Mau
+effort			:	Co gang
+expression		:	Bieu hien
+importance		:	Tam quan trong
+opinion			:	Y kien
+payment			:	Thanh toan
+reality			:	Thuc te
+responsibility		:	Trach nhiem
+situation		:	Tinh hinh
+skill			:	Ky nang
+statement		:	Tuyen bo
+wealth			:	Su giau co
+application		:	Ung dung
+city			:	Thanh pho
+county			:	Quan
+depth			:	Chieu sau
+estate			:	Tai san
+foundation		:	Nen tang
+grandmother		:	Ba ngoai
+heart			:	Tim
+perspective		:	Quan diem
+photo			:	Anh
+recipe			:	Cong thuc
+studio			:	Phong thu
+topic			:	Chu de
+collection		:	Bo suu tap
+depression		:	Phien muon
+imagination		:	Su tuong tuong
+passion			:	Tinh yeu
+percentage		:	Ty le phan tram
+resource		:	Tai nguyen
+setting			:	Thiet lap
+ad				Quang cao
+agency			:	Dai ly
+college			:	Truong dai hoc
+connection		:	Lien quan
+criticism		:	Su chi trach
+debt			:	No nan
+description		:	Mieu ta
+memory			:	Tri nho
+patience		:	Kien nhan
+secretary		:	Thu ky
+solution		:	Giai quyet
+administration		:	Quyen quan tri
+aspect			:	Dien mao
+attitude		:	Thai do
+director		:	Giam doc
+personality		:	Nhan cach
+psychology		:	Tam ly hoc
+recommendation		:	Khuyen nghi
+response		:	Cau tra loi
+selection		:	Su lua chon
+storage			:	Luu tru
+version			:	Phien ban
+alcohol			:	Ruou
+argument		:	Tranh cai
+complaint		:	Loi phan nan
+contract		:	Hop dong
+emphasis		:	Su nhan manh
+highway			:	Xa lo
+loss			:	Su mat mat
+membership		:	Thanh vien
+possession		:	So huu
+preparation		:	Su chuan bi
+steak			:	Thit bo
+union			:	Lien hiep
+agreement		:	Su dong y
+cancer			:	Ung thu
+currency		:	Tien te
+employment		:	Viec lam
+engineering		:	Ky thuat
+entry			:	Loi vao
+interaction		:	Tuong toc
+limit			:	Gioi han
+mixture			:	Hon hop
+preference		:	Su ua thich
+region			:	Vung
+republic		:	Nuoc cong hoa
+seat			:	Ghe
+tradition		:	Truyen thong
+virus			:	Virus
+actor			:	Dien vien
+classroom		:	Lop hoc
+delivery		:	Giao hang
+device			:	Thiet bi
+difficulty		:	Khu khan
+drama			:	Kich
+election		:	Suu bau cu
+engine			:	Dong co
+football		:	Bung do
+guidance		:	Huong dan
+hotel			:	Khach san
+match			:	Tran dau
+owner			:	Chu nhan
+priority		:	Quyen uu tien
+protection		:	Su bao ve
+suggestion		:	Goi y
+tension			:	Suc ep
+variation		:	Su bien doi
+anxiety			:	Lo ngai
+atmosphere		:	Khung khi
+awareness		:	Nhan thuc
+bread			:	Banh mi
+climate			:	Khi hau
+comparison		:	Su so sanh
+confusion		:	Nham lan
+construction		:	Xay dung
+elevator		:	Thang may
+emotion			:	Xuc dong
+employee		:	Cong nhan
+employer		:	Su dung lao dong
+guest			:	Khach
+height			:	Chieu cao
+leadership		:	Lanh dao
+mall			:	Trung tom mua sam
+manager			:	Nguoi quan ly
+operation		:	Hoat dong
+recording		:	Ghi am
+respect			:	Ton trong
+sample			:	Mau
+transportation		:	Giao thong van tai
+boring			:	Chan nan
+charity			:	Bo tho
+cousin			:	Anh em ho
+disaster		:	Tham hoa
+editor			:	Bien tap vien
+efficiency		:	Hieu qua
+excitement		:	Phan khich
+extent			:	Muc do
+feedback		:	Thong tin phan hoi
+guitar			:	Dan guitar
+homework		:	Bai tap ve nha
+leader			:	Lanh dao
+mom			:	Me
+outcome			:	Ket qua
+permission		:	Su cho phep
+presentation		:	Trinh bay
+promotion		:	Khuyen mai
+reflection		:	Su phan xa
+refrigerator		:	Tu lanh
+resolution		:	Do phan giai
+revenue			:	Loi tuc
+session			:	Buoi hop
+singer			:	Ca si
+tennis			:	Quan vot
+basket			:	Coi gio
+bonus			:	Tien thuong
+cabinet			:	Buong
+childhood		:	Thoi tho au
+church			:	Nha tho
+clothes			:	Quan ao
+coffee			:	Ca phe
+dinner			:	Bua toi
+drawing			:	Ban ve
+hair			:	Toc
+hearing			:	Thinh giac
+initiative		:	Sang kien
+judgment		:	Danh gia
+lab			:	Phong thi nghiem
+measurement		:	Su do luong
+mode			:	Che do
+mud			:	Bun
+orange			:	Trai cam
+poetry			:	Bai tho
+police			:	Canh sat
+possibility		:	Kha nang
+procedure		:	Phuong phap
+queen			:	Nu hoang
+ratio			:	Ti le
+relation		:	Quan he
+restaurant		:	Nha hang
+satisfaction		:	Su hai long
+sector			:	Khu vuc
+signature		:	Chu ky
+significance		:	Su quan trong
+song			:	Bai hat
+tooth			:	Rang
+town			:	Thanh pho
+vehicle			:	Xe co
+volume			:	Am luong
+wife			:	Vo
+accident		:	Tai nan
+airport			:	San bay
+appointment		:	Cuoc hen
+arrival			:	Den
+assumption		:	Gia dinh
+baseball		:	Bung chay
+chapter			:	Chuong
+committee		:	Uy ban
+conversation		:	Dam thoai
+database		:	Co so du lieu
+enthusiasm		:	Nhiet huyet
+error			:	Loi
+explanation		:	Giai thich
+farmer			:	Nong don
+gate			:	Cua
+girl			:	Co gai
+hall			:	Dai sanh
+historian		:	Su gia
+hospital		:	Benh vien
+injury			:	Vet thuong
+instruction		:	Huong dan
+maintenance		:	Bao tro
+manufacturer		:	Nha che tao
+meal			:	Bua an
+perception		:	Su nhan thuc
+pie			:	Bonh
+poem			:	Bai tho
+presence		:	Su hien dien
+proposal		:	De nghi
+reception		:	Tiep nhan
+replacement		:	Su thay the
+revolution		:	Cuoc cach mang
+river			:	Song
+son			:	Con trai
+speech			:	Loi nui
+tea			:	Tra
+village			:	Lang
+warning			:	Canh bao
+winner			:	Nguoi chien thang
+worker			:	Cung nhon
+writer			:	Nha van
+assistance		:	Ho tro
+breath			:	Hoi tho
+buyer			:	Nguoi mua
+chest			:	Nguc
+chocolate		:	Sucula
+conclusion		:	Phan ket luan
+contribution		:	Su dung gop
+cookie			:	Cookie
+courage			:	Long can dam
+dad			:	Cha
+desk			:	Ban giay
+drawer			:	Ngan keo
+establishment		:	Thanh lap
+examination		:	Kiem tra
+garbage			:	Dong roc
+grocery			:	Tap hua
+honey			:	Mat ong
+impression		:	An tuong
+improvement		:	Su cai thien
+independence		:	Doc lap
+insect			:	Can trung
+inspection		:	Su kiem tra
+inspector		:	Vien thanh tra
+king			:	Vua
+ladder			:	Thang
+menu			:	Thuc don
+penalty			:	Honh phat
+piano			:	Duong cam
+potato			:	Khoai toy
+profession		:	Nghe nghiep
+professor		:	Giao su
+quantity		:	So luong
+reaction		:	Su phan ung
+requirement		:	You cau
+salad			:	Xa lach
+sister			:	Chi
+supermarket		:	Sieu thi
+tongue			:	Luoi
+weakness		:	Yeu duoi
+wedding			:	Ket hun
+affair			:	Viec
+ambition		:	Tham vong
+analyst			:	Phan tich
+apple			:	Tao
+assignment		:	Bai tap
+assistant		:	Phu to
+bathroom		:	Phong tam
+bedroom			:	Phong ngu
+beer			:	Bia
+birthday		:	Ngay sinh nhat
+celebration		:	Le ky niem
+championship		:	Chuc vu dich
+cheek			:	Gu mo
+client			:	Khach hang
+consequence		:	Ket qua
+departure		:	Khoi hanh
+diamond			:	Kim cuong
+dirt			:	Bui
+ear			:	Tai
+fortune			:	Van may
+friendship		:	Tinh ban
+funeral			:	Dam ma
+gene			:	Gen
+girlfriend		:	Ban gai
+hat			:	Mu
+indication		:	Dau hieu
+intention		:	Muc dich
+lady			:	Phu nu
+midnight		:	Nua dem
+negotiation		:	Dam phon
+obligation		:	Nghia vu
+passenger		:	Hanh khach
+pizza			:	Banh pizza
+platform		:	Nen tang
+poet			:	Thi si
+pollution		:	O nhiem
+recognition		:	Su cong nhan
+reputation		:	Danh tieng
+shirt			:	Ao so mi
+sir			:	Ngai
+speaker			:	Loa
+stranger		:	Nguoi la
+surgery			:	Phau thuat
+sympathy		:	Thong cam
+tale			:	Truyen
+throat			:	Hong
+trainer			:	Huan luyen vien
+uncle			:	Chu
+youth			:	Tuoi tre
+time			:	Thoi gian
+work			:	Cung viec
+film			:	Phim anh
+water			:	Nuoc
+money			:	Tien
+example			:	Thi du
+while			:	Trong khi
+business		:	Kinh doanh
+study			:	Nghien cuu
+game			:	Tro choi
+life			:	Doi song
+form			:	Hinh thuc

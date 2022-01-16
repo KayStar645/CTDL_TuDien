@@ -1,0 +1,20 @@
+﻿Build started 1/16/2022 11:15:17 PM.
+     1>Project "D:\1.University\3.Semester3\3.CTDL\DeTai01\DeTai01-CTDL_C++\UngDungTuDien\UngDungTuDien.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\UngDungTuDien.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\UngDungTuDien.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt UngDungTuDien.cpp UngDungTuDienDlg.cpp
+         Skipping... (no relevant changes detected)
+         UngDungTuDienDlg.cpp
+         UngDungTuDien.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\1.University\3.Semester3\3.CTDL\DeTai01\DeTai01-CTDL_C++\Debug\UngDungTuDien.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\1.University\3.Semester3\3.CTDL\DeTai01\DeTai01-CTDL_C++\Debug\UngDungTuDien.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\1.University\3.Semester3\3.CTDL\DeTai01\DeTai01-CTDL_C++\Debug\UngDungTuDien.lib" /MACHINE:X86 Debug\UngDungTuDien.res
+         Debug\stdafx.obj
+         Debug\UngDungTuDien.obj
+         Debug\UngDungTuDienDlg.obj
+         UngDungTuDien.vcxproj -> D:\1.University\3.Semester3\3.CTDL\DeTai01\DeTai01-CTDL_C++\Debug\UngDungTuDien.exe
+     1>Done Building Project "D:\1.University\3.Semester3\3.CTDL\DeTai01\DeTai01-CTDL_C++\UngDungTuDien\UngDungTuDien.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.14
