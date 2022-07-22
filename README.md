@@ -8,3 +8,5 @@ Hình ảnh mô tả để xem chương trình chạy
 #Chương trình: Áp dụng bảng băm xây dựng bộ từ điển Anh-Việt
 
 #Điểm báo cáo: 10đ
+
+*[Giao diện chương trình](/MoTa.jpg)*
