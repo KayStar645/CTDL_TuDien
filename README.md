@@ -9,4 +9,4 @@ Hình ảnh mô tả để xem chương trình chạy
 
 #Điểm báo cáo: 10đ
 
-*[Giao diện chương trình](/MoTa.jpg)*
+*![Giao diện chương trình](https://github.com/KayStar645/CTDL_TuDien/blob/main/MoTa.jpg?raw=true)*
